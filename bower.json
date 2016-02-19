@@ -1,0 +1,20 @@
+{
+  "name": "oildex-component-router",
+  "authors": [
+    "Oscar Gonzalez <oscar.gonzalez@jalasoft.com>"
+  ],
+  "description": "Angular Component Router ready to be used with Angular 1.5.0",
+  "main": "dist/angular_1_router.js",
+  "keywords": [
+    "component",
+    "router"
+  ],
+  "license": "Proprietary",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
